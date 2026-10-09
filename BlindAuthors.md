@@ -11,8 +11,6 @@ abstract: "A directory of 60 blind or low-vision authors and 89 of their sole-au
 keywords: [blindness, blind authors, low vision, accessibility, memoir, screen readers]
 ---
 
-# Blind Authors
-
 This directory lists 61 authors who are blind or have low vision, along with selected books by each. It is meant as a resource for aspiring blind authors and as a way to find and reach the writers listed.
 
 This is one of three companion directories, alongside [Blind Developers](https://jamalmazrui.github.io/BlindDevelopers/) and [Blind Presenters](https://jamalmazrui.github.io/BlindPresenters/), and all three are merged in [Blind Creators](https://jamalmazrui.github.io/BlindCreators/). A related directory, [Blind Books](https://jamalmazrui.github.io/BlindBooks/), turns this one around: it lists every qualifying book by these authors, each with its category, formats, and year, plus statistics on the whole collection.
