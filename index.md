@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Blind Authors"
 subtitle: "60 Creators of Books While Blind or Low Vision"
 author: "Jamal Mazrui"
