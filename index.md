@@ -13,7 +13,7 @@ keywords: [blindness, blind authors, low vision, accessibility, memoir, screen r
 
 # Blind Authors
 
-This directory lists 60 authors who are blind or have low vision, along with selected books by each. It is meant as a resource for aspiring blind authors and as a way to find and reach the writers listed.
+This directory lists 61 authors who are blind or have low vision, along with selected books by each. It is meant as a resource for aspiring blind authors and as a way to find and reach the writers listed.
 
 This is one of three companion directories, alongside [Blind Developers](https://jamalmazrui.github.io/BlindDevelopers/) and [Blind Presenters](https://jamalmazrui.github.io/BlindPresenters/), and all three are merged in [Blind Creators](https://jamalmazrui.github.io/BlindCreators/). A related directory, [Blind Books](https://jamalmazrui.github.io/BlindBooks/), turns this one around: it lists every qualifying book by these authors, each with its category, formats, and year, plus statistics on the whole collection.
 
@@ -71,6 +71,7 @@ This directory is English-language in scope: it relies on books and sources that
 - [Georgina Kleege](#au-kleege)
 - [Ryan Knighton](#au-knighton)
 - [Stephen Kuusisto](#au-kuusisto)
+- [Dan Kysor](#au-kysor)
 - [Bobbi LaChance](#au-lachance)
 - [Andrew Leland](#au-leland)
 - [Dean Martineau](#au-martineau)
@@ -478,6 +479,13 @@ Format: Simon & Schuster.
 #### [Letters to Borges (2013)](https://www.amazon.com/Letters-Borges-Stephen-Kuusisto-ebook/dp/B00B6UB5NO) {#book-letters-to-borges}
 Poems addressed to the blind writer Jorge Luis Borges as a traveler's letters from shifting cities, where blindness opens onto invented landscapes.
 Format: Kindle.
+
+### Dan Kysor {#au-kysor}
+A blind author and longtime disability rights advocate, once a disability rights reporter for Pacifica Radio in Berkeley; his memoir is *Blind Like Me: The Danny Kysor Story*.
+
+#### [Recreating Yourself: Recreation Options for Blind and Visually Impaired People in Today's World (2026)](https://books.apple.com/us/audiobook/recreating-yourself-recreation-options-for-blind-and/id6779771824) {#book-recreating-yourself}
+A guide to recreation for blind and visually impaired children and adults: sports such as baseball, basketball and skiing adapted with sound cues, tactile markers and sighted guides; hobbies such as amateur radio and knitting; and the equipment makers, organizations and community programs that support them. A revised and expanded second edition was announced in October 2026.
+Format: Apple Books audiobook.
 
 ### Bobbi LaChance {#au-lachance}
 A romance novelist.
