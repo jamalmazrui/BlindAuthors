@@ -1,13 +1,13 @@
 ---
 title: "Blind Authors"
-subtitle: "60 Creators of Books While Blind or Low Vision"
+subtitle: "61 Creators of Books While Blind or Low Vision"
 author: "Jamal Mazrui"
 date: "October 2026"
-version: "v2.32.4"
+version: "v2.33.0"
 lang: "en-US"
 toc: true
 toc-depth: 3
-abstract: "A directory of 60 blind or low-vision authors and 89 of their sole-authored books, each first published in 2000 or later and available today in a digital format through a working link. Authors are listed alphabetically by last name, with up to three books each, newest first, and a Profiles list."
+abstract: "A directory of 61 blind or low-vision authors and 91 of their sole-authored books, each first published in 2000 or later and available today in a digital format through a working link. Authors are listed alphabetically by last name, with up to three books each, newest first, and a Profiles list."
 keywords: [blindness, blind authors, low vision, accessibility, memoir, screen readers]
 ---
 
@@ -517,6 +517,10 @@ Format: DOCX.
 Keyboard commands and customizations across Windows, JAWS, and Microsoft Word for faster, more effective screen-reader use.
 Format: DOCX.
 
+#### [Windows Screen Reader Keystroke Compendium: Covering JAWS, NVDA, and Narrator (2020)](https://shop.nbp.org/products/windows-screen-reader-keystroke-compendium-2024-update) {#book-screen-reader-compendium}
+The keystrokes of JAWS, NVDA, and Narrator in one volume, for general use, web and app browsing, and Microsoft Office, updated in 2024.
+Format: National Braille Press.
+
 ### Jamal Mazrui {#au-mazrui}
 Profiles: [Amazon](https://www.amazon.com/Jamal-Mazrui/e/B078HKV49S), [GitHub](https://github.com/jamalmazrui), [LinkedIn](https://www.linkedin.com/in/jamalmazrui/)
 
@@ -766,6 +770,7 @@ The same books grouped by kind, ordered by title within each group. For every bo
 - [The Windows Screen Reader Primer: All the Basics and More (2024)](#book-windows-primer) — David Kingsbury
 - [Time to Go Zoom Revisited (2026)](#book-zoom-revisited) — Brian Hartgen
 - [Windows Keyboard Power User Guide (2019)](#book-windows-keyboard) — Dean Martineau
+- [Windows Screen Reader Keystroke Compendium: Covering JAWS, NVDA, and Narrator (2020)](#book-screen-reader-compendium) — Dean Martineau
 - [Winning Teams Version 3](#book-winning-teams) — Brian Hartgen
 
 ### Biography {#cat-biography}
