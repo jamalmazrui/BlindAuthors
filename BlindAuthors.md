@@ -1,6 +1,6 @@
 ---
 title: "Blind Authors"
-subtitle: "61 Creators of Books While Blind or Low Vision"
+subtitle: "A Directory of 61 Creators of Books While Blind or Low Vision"
 author: "Jamal Mazrui"
 date: "October 2026"
 version: "v2.33.0"
@@ -30,6 +30,7 @@ This directory is English-language in scope: it relies on books and sources that
 
 ## Table of Contents
 
+- [By the Numbers](#by-the-numbers)
 - [Peter Altschul](#au-altschul)
 - [Taylor Arndt](#au-arndt)
 - [Amy Bovaird](#au-bovaird)
@@ -92,6 +93,12 @@ This directory is English-language in scope: it relies on books and sources that
 - [Erik Weihenmayer](#au-weihenmayer)
 - [Kristen Witucki](#au-witucki)
 - [Books by Category](#books-by-category)
+
+## By the Numbers {#by-the-numbers}
+
+- Between them, the 61 authors have 107 books, about 1.8 each, all listed in [Blind Books](https://jamalmazrui.github.io/BlindBooks/).
+- 70% of the authors have one book listed; 1 author has five or more.
+- The books span 2001 to 2026; the most common form is Kindle.
 
 ## Authors (Alphabetical by Last Name)
 
