@@ -1,6 +1,9 @@
 ---
 title: "Blind Authors"
 subtitle: "A Directory of 61 Creators of Books While Blind or Low Vision"
+description: "A directory of authors who are blind or have low vision, each the sole author of books first published in 2000 or later, with links to digital editions."
+license: "CC BY-SA 4.0"
+license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 author: "Jamal Mazrui"
 date: "October 2026"
 version: "v2.33.0"
@@ -27,6 +30,8 @@ Up to three books are shown per author, newest first, each with its year where k
 Authors are listed alphabetically by last name, with the books grouped by kind in an appendix.
 
 This directory is English-language in scope: it relies on books and sources that can be read and verified in English. Blind authors writing in other languages are not represented here.
+
+Each listed book belongs to its author and publisher. This directory's own text and arrangement are available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Table of Contents
 
