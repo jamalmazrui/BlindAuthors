@@ -6,7 +6,7 @@ license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 author: "Jamal Mazrui"
 date: "October 2026"
-version: "v2.33.0"
+version: "v2.33.1"
 lang: "en-US"
 toc: true
 toc-depth: 3
@@ -308,8 +308,8 @@ A totally blind musician and assistive technology professional from Michigan who
 Profiles: [GitHub](https://github.com/tonygeb23), [LinkedIn](https://www.linkedin.com/in/tonygeb23), [Website](https://tonygebhard.me/)
 
 #### [No Sight Required — The Blind User's Guide to AI (2026)](https://nosightrequired.com/) {#book-no-sight-required}
-A practical guide to using ChatGPT, Claude, and Gemini with NVDA, JAWS, VoiceOver, and TalkBack.
-Format: Kindle and paperback.
+A practical guide to using ChatGPT, Claude, and Gemini with NVDA, JAWS, VoiceOver, and TalkBack. A Spanish edition, No se requiere vista, translated by Mateo Quintela, followed in October 2026.
+Format: Audiobook, EPUB, Kindle, paperback, PDF, and Word.
 
 ### Haben Girma {#au-girma}
 An attorney, disability-rights advocate, and keynote speaker.
