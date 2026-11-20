@@ -1,20 +1,20 @@
 ---
 title: "Blind Authors"
-subtitle: "A Directory of 61 Creators of Books While Blind or Low Vision"
+subtitle: "A Directory of 63 Creators of Books While Blind or Low Vision"
 description: "A directory of authors who are blind or have low vision, each the sole author of books first published in 2000 or later, with links to digital editions."
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 author: "Jamal Mazrui"
-date: "October 2026"
-version: "v2.33.1"
+date: "November 2026"
+version: "v2.34.0"
 lang: "en-US"
 toc: true
 toc-depth: 3
-abstract: "A directory of 61 blind or low-vision authors and 91 of their sole-authored books, each first published in 2000 or later and available today in a digital format through a working link. Authors are listed alphabetically by last name, with up to three books each, newest first, and a Profiles list."
+abstract: "A directory of 63 blind or low-vision authors and 94 of their sole-authored books, each first published in 2000 or later and available today in a digital format through a working link. Authors are listed alphabetically by last name, with up to three books each, newest first, and a Profiles list."
 keywords: [blindness, blind authors, low vision, accessibility, memoir, screen readers]
 ---
 
-This directory lists 61 authors who are blind or have low vision, along with selected books by each. It is meant as a resource for aspiring blind authors and as a way to find and reach the writers listed.
+This directory lists 63 authors who are blind or have low vision, along with selected books by each. It is meant as a resource for aspiring blind authors and as a way to find and reach the writers listed.
 
 This is one of three companion directories, alongside [Blind Developers](https://jamalmazrui.github.io/BlindDevelopers/) and [Blind Presenters](https://jamalmazrui.github.io/BlindPresenters/), and all three are merged in [Blind Creators](https://jamalmazrui.github.io/BlindCreators/). A related directory, [Blind Books](https://jamalmazrui.github.io/BlindBooks/), turns this one around: it lists every qualifying book by these authors, each with its category, formats, and year, plus statistics on the whole collection.
 
@@ -49,6 +49,7 @@ Each listed book belongs to its author and publisher. This directory's own text 
 - [Peggy Chong](#au-chong)
 - [Belo Cipriani](#au-cipriani)
 - [Naomi Cohn](#au-cohn)
+- [Brandon Cole (d. 2024)](#au-cole)
 - [Wendy S. David](#au-david)
 - [Judy Dixon](#au-dixon)
 - [Anna Dresner](#au-dresner)
@@ -92,6 +93,7 @@ Each listed book belongs to its author and publisher. This directory's own text 
 - [Maud Rowell](#au-rowell)
 - [Adrian Spratt](#au-spratt)
 - [Maribel Steel](#au-steel)
+- [Jim Stovall](#au-stovall)
 - [Red Szell](#au-szell)
 - [David S. Tatel](#au-tatel)
 - [Abbie Johnson Taylor](#au-taylor)
@@ -101,7 +103,7 @@ Each listed book belongs to its author and publisher. This directory's own text 
 
 ## By the Numbers {#by-the-numbers}
 
-- Between them, the 61 authors have 107 books, about 1.8 each, all listed in [Blind Books](https://jamalmazrui.github.io/BlindBooks/).
+- Between them, the 63 authors have 110 books, about 1.7 each, all listed in [Blind Books](https://jamalmazrui.github.io/BlindBooks/).
 - 70% of the authors have one book listed; 1 author has five or more.
 - The books span 2001 to 2026; the most common form is Kindle.
 
@@ -240,6 +242,15 @@ Profiles: [Website](https://naomi-cohn.com/)
 #### [The Braille Encyclopedia: Brief Essays on Altered Sight (2024)](https://rosemetalpress.com/books/the-braille-encyclopedia/) {#book-braille-encyclopedia}
 An abecedarian memoir in brief essays and prose poems on losing her sight and learning braille as an adult.
 Format: Rose Metal Press.
+
+### Brandon Cole (d. 2024) {#au-cole}
+A totally blind, award-winning video game accessibility consultant, streamer, and podcaster; he died in June 2024, and his book was published after his death.
+Profiles: [Website](https://www.brandoncole.net/)
+
+#### [Taking Video Out of the Game: A Game Developer's Guide to Total Blind Accessibility (2025)](https://www.routledge.com/Taking-Video-Out-of-the-Game-A-Game-Developers-Guide-to-Total-Blind-Accessibility/Cole/p/book/9781032557397) {#book-taking-video-out}
+A guide for game developers to making games fully playable without sight, from the history of blind accessibility to guidelines on narration, navigation, audio cues, and combat.
+Format: Ebook and print; also on Bookshare.
+Accessible editions: [Bookshare](https://www.bookshare.org/browse/book/6784574)
 
 ### Wendy S. David {#au-david}
 A blind traveler and writer.
@@ -653,6 +664,19 @@ Profiles: [Website](https://maribelsteel.com/)
 Part memoir, part practical guide to adjusting emotionally and practically to vision loss.
 Format: Spring Studio.
 
+### Jim Stovall {#au-stovall}
+A totally blind author, keynote speaker, and president of the Emmy Award-winning Narrative Television Network in Tulsa, Oklahoma.
+Profiles: [Website](https://jimstovall.com/), [Wikipedia](https://en.wikipedia.org/wiki/Jim_Stovall)
+
+#### [Wisdom for Winners, Volume Three (2017)](https://origin-www.audible.ca/pd/Wisdom-for-Winners-Volume-Three-Audiobook/B0728P3GQ3) {#book-wisdom-for-winners-3}
+Short pieces drawn from his syndicated Winners' Wisdom columns on success, work, and character, arranged to be read a few at a time.
+Format: Audiobook.
+
+#### [The Ultimate Gift (2001)](https://www.audible.co.uk/pd/The-Ultimate-Gift-Audiobook/B004EWSSVI) {#book-ultimate-gift}
+A bestselling novel, later a feature film, in which a spoiled heir must complete a year of tasks set by his late uncle to learn what his inheritance is.
+Format: Audiobook; also on Bookshare.
+Accessible editions: [Bookshare](https://www.bookshare.org/browse/book/1058569)
+
 ### Red Szell {#au-szell}
 A British crime novelist, broadcaster, and climber who is registered blind from retinitis pigmentosa.
 Profiles: [Website](https://redszell.com/)
@@ -754,6 +778,7 @@ The same books grouped by kind, ordered by title within each group. For every bo
 - [The Heart of Applebutter Hill (2013)](#book-applebutter-hill) — Donna W. Hill
 - [The Journey: A Life in Three Parts (2013)](#book-the-journey) — Bobbi LaChance
 - [The Transcriber (2013)](#book-the-transcriber) — Kristen Witucki
+- [The Ultimate Gift (2001)](#book-ultimate-gift) — Jim Stovall
 - [Vision Dreams: A Parable (2019)](#book-vision-dreams) — Anthony R. Candela
 - [Why Grandma Doesn't Know Me (2021)](#book-why-grandma) — Abbie Johnson Taylor
 
@@ -778,6 +803,7 @@ The same books grouped by kind, ordered by title within each group. For every bo
 - [iOS Without the Eye](#book-ios-without-the-eye) — Jonathan Mosen
 - [No Sight Required — The Blind User's Guide to AI (2026)](#book-no-sight-required) — Tony Gebhard
 - [Personal Power: The iOS Edition (2025)](#book-personal-power) — Michael Feir
+- [Taking Video Out of the Game: A Game Developer's Guide to Total Blind Accessibility (2025)](#book-taking-video-out) — Brandon Cole (d. 2024)
 - [The Power of PowerPoint: Using a Screen Reader to Create Attention-Grabbing Presentations (2022)](#book-power-of-powerpoint) — Judy Dixon
 - [The Windows Screen Reader Primer: All the Basics and More (2024)](#book-windows-primer) — David Kingsbury
 - [Time to Go Zoom Revisited (2026)](#book-zoom-revisited) — Brian Hartgen
@@ -795,6 +821,7 @@ The same books grouped by kind, ordered by title within each group. For every bo
 - [Breaking It Down and Connecting the Dots: Creating Common Ground Where Contention Rules (2017)](#book-breaking-it-down) — Peter Altschul
 - [Riding Elephants: Creating Common Ground Where Contention Rules (2021)](#book-riding-elephants) — Peter Altschul
 - [What Should Not Remain Silent (2024)](#book-what-should-not-remain-silent) — Anthony R. Candela
+- [Wisdom for Winners, Volume Three (2017)](#book-wisdom-for-winners-3) — Jim Stovall
 
 ### Disability, rehabilitation, and law {#cat-disabilityrehabili}
 - [Freedom for the Blind: The Secret is Empowerment (2002)](#book-freedom-for-the-blind) — James H. Omvig
